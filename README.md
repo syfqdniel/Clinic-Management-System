@@ -4,11 +4,11 @@ Create a system to manage every process in the clinic — from patient registrat
 
 ## 💡 Features
 
-- Home page with pesoniled dashboard
-- List of blog posts
-- Detailed post view
-- About Me section
-- Responsive layout for mobile and desktop
+- Add new employee
+- Add new medecine
+- Show treatment, medecine and stock report
+- Register patient
+- Register treatment
 
 ## 🛠️ Technologies Used
 
