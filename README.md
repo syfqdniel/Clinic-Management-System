@@ -9,7 +9,7 @@ Create a system to manage every process in the clinic — from patient registrat
 - Show treatment, medecine and stock report
 - Register patient
 - Register treatment
-- -
+
 
 ## 🛠️ Technologies Used
 
