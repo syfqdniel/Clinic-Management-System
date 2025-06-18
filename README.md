@@ -19,8 +19,6 @@ Create a system to manage every process in the clinic — from patient registrat
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
 
-```bash
 
 https://syfqdniel.github.io/Clinic-Management-System/
