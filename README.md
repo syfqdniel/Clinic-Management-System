@@ -1,10 +1,10 @@
-# Personal Blog Page
+# Clinic Managemnet System
 
-A simple and clean personal blog website where I can showcase my thoughts, articles, and a bit about myself. This project demonstrates basic front-end web development skills.
+Create a system to manage every process in the clinic — from patient registration to adding new employees, medicines, and more.
 
 ## 💡 Features
 
-- Home page with blog introduction
+- Home page with pesoniled dashboard
 - List of blog posts
 - Detailed post view
 - About Me section
